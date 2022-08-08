@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrismApp", "PrismApp.csproj", "{CBF17FF6-FB55-44C2-9207-2DFA8B0F05E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrismApp.Navigation", "..\PrismApp.Navigation\PrismApp.Navigation.csproj", "{3892655F-25F1-4088-B5CF-B792C733C2AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prism.CompositeCommands", "..\Prism.CompositeCommands\Prism.CompositeCommands.csproj", "{2F450A3B-4E36-4617-BB1D-6605A3264D5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prism.EventAggregator", "..\Prism.EventAggregator\Prism.EventAggregator.csproj", "{A34B93B3-99EB-4B19-924B-91795672A08F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prism.DialogService", "..\Prism.DialogService\Prism.DialogService.csproj", "{8EFCE336-5E4A-49DF-B4A6-C65D7D892884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF17FF6-FB55-44C2-9207-2DFA8B0F05E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF17FF6-FB55-44C2-9207-2DFA8B0F05E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF17FF6-FB55-44C2-9207-2DFA8B0F05E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF17FF6-FB55-44C2-9207-2DFA8B0F05E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3892655F-25F1-4088-B5CF-B792C733C2AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3892655F-25F1-4088-B5CF-B792C733C2AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3892655F-25F1-4088-B5CF-B792C733C2AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3892655F-25F1-4088-B5CF-B792C733C2AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F450A3B-4E36-4617-BB1D-6605A3264D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F450A3B-4E36-4617-BB1D-6605A3264D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F450A3B-4E36-4617-BB1D-6605A3264D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F450A3B-4E36-4617-BB1D-6605A3264D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34B93B3-99EB-4B19-924B-91795672A08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34B93B3-99EB-4B19-924B-91795672A08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34B93B3-99EB-4B19-924B-91795672A08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34B93B3-99EB-4B19-924B-91795672A08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFCE336-5E4A-49DF-B4A6-C65D7D892884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFCE336-5E4A-49DF-B4A6-C65D7D892884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFCE336-5E4A-49DF-B4A6-C65D7D892884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFCE336-5E4A-49DF-B4A6-C65D7D892884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E179333F-1C49-4A6A-8278-17DAB50781FD}
+	EndGlobalSection
+EndGlobal
