@@ -35,5 +35,6 @@ namespace PrismApp
             moduleCatalog.AddModule<DialogServiceModule>();
             base.ConfigureModuleCatalog(moduleCatalog);
         }
+        //添加测试更新
     }
 }
